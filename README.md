@@ -7,6 +7,7 @@
 | 🏋️‍♀️ Base64 Image | https://www.base64-image.de/ |
 | 🛑 Usable | https://github.com/Adriandmen/05AB1E |
 | 👀 Servor | https://github.com/lukejacksonn/servor |
+| 🙆‍♂️ Validator | https://github.com/zrrrzzt/html-validator |
 | 🔬 Minificador | https://github.com/terser/html-minifier-terser |
 
 - `head.html`: Cabecera del fichero HTML minificada lo máximo posible.
